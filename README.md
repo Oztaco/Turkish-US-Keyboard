@@ -23,5 +23,15 @@ Please note that r-alt and r-ctrl represent the alt and ctrl keys on the right s
 | Ş      | r-alt + shift + s  |
 | ç      | r-alt + c          |
 | Ç      | r-alt + shift + c  |
-| ğ      | r-alt + g |
+| ğ      | r-alt + g          |
 | Ğ      | r-alt + shift + g  |
+| â      | r-alt + r-ctrl + a  |
+| Â      | r-alt + r-ctrl + shift + a |
+| ê      | r-alt + r-ctrl + e |
+| Ê      | r-alt + r-ctrl + shift + e |
+| î      | r-alt + r-ctrl + i |
+| Î      | r-alt + r-ctrl + shift + i |
+| ô      | r-alt + r-ctrl + o |
+| Ô      | r-alt + r-ctrl + shift + o |
+| û      | r-alt + r-ctrl + u |
+| Û      | r-alt + r-ctrl + shift + u |
