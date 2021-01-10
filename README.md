@@ -1,6 +1,4 @@
 # Turkish US Keyboard
-An AutoHotKey script I wrote to add support for Turkish characters to a US keyboard layout, using the right-Alt key as a modifier. Hold down the right-Alt key and type a character to add the corresponding character with accent marks. 
-
 An AutoHotKey script to allow a US keyboard layout to write Turkish text easily, using the right-alt key and right-ctrl key as modifiers. 
 
 # Installation
